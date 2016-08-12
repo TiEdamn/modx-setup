@@ -1,0 +1,30 @@
+$providers = array(
+	array(
+		'name'			=> 'modx.com',
+		'service_url'	=> 'http://rest.modx.com/extras/',
+		'username'		=> '',
+		'api_key'		=> '',
+		'packages'		=> array( // true - инсталлировать
+			'Ace'				=> true,
+			'ClientConfig'			=> true,
+			'FormIt'			=> true,
+			'MIGX'			=> true,
+			'pdoTools'			=> true,
+			'TinyMCE'			=> true,
+			'translit'			=> true,
+			'filetranslit'			=> true,
+			'modDevTools'			=> true,
+			'SEO Pro'			=> true,
+			'pthumb'			=> true,
+		),
+	),
+	array(
+		'name'			=> 'MOD STORE',
+		'service_url'	=> 'http://modstore.pro/extras/',
+		'username'		=> '',
+		'api_key'		=> '',
+		'packages'		=> array( // false - просто скачать
+			'ajaxform'			=> true,
+		),
+	)
+);

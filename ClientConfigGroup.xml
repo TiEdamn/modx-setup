@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data package="clientconfig" exported="2016-04-14@20:30:11" total="3">
+<cgGroup>
+	<id>1</id>
+	<label><![CDATA[Контакты]]></label>
+	<description><![CDATA[]]></description>
+	<sortorder>0</sortorder>
+</cgGroup>
+<cgGroup>
+	<id>2</id>
+	<label><![CDATA[Настройки системы]]></label>
+	<description><![CDATA[]]></description>
+	<sortorder>1</sortorder>
+</cgGroup>
+<cgGroup>
+	<id>3</id>
+	<label><![CDATA[Поисковые системы]]></label>
+	<description><![CDATA[]]></description>
+	<sortorder>2</sortorder>
+</cgGroup>
+</data>

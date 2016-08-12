@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data package="clientconfig" exported="2016-04-14@20:38:20" total="7">
+<cgSetting>
+	<id>1</id>
+	<key><![CDATA[form_mail]]></key>
+	<label><![CDATA[Почта для контактных форм]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required>1</is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[tikhanovich@webgeeks.by]]></value>
+	<default><![CDATA[]]></default>
+	<group>1</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>2</id>
+	<key><![CDATA[robot]]></key>
+	<label><![CDATA[Открыть сайт для поисковых систем?]]></label>
+	<xtype><![CDATA[xcheckbox]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>7</id>
+	<key><![CDATA[user_script]]></key>
+	<label><![CDATA[Пользовательские скрипты]]></label>
+	<xtype><![CDATA[textarea]]></xtype>
+	<description><![CDATA[Callback Hunter, Jivosite и др]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>2</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>3</id>
+	<key><![CDATA[ya_var]]></key>
+	<label><![CDATA[Код верификации Yandex]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>1</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>4</id>
+	<key><![CDATA[g_var]]></key>
+	<label><![CDATA[Код верификации Google]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>2</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>5</id>
+	<key><![CDATA[ya_metrika]]></key>
+	<label><![CDATA[Код Yandex метрики]]></label>
+	<xtype><![CDATA[textarea]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>3</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>6</id>
+	<key><![CDATA[g_anal]]></key>
+	<label><![CDATA[Код Google analytics]]></label>
+	<xtype><![CDATA[textarea]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>4</sortorder>
+	<value><![CDATA[]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+</data>
